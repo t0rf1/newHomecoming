@@ -34,12 +34,12 @@ MonoBehaviour:
     cullingMinDist: 0.01
     fov: 60
     useZoom: 0
-    fixedAngle: {x: 360, y: 78}
+    fixedAngle: {x: 0, y: 0}
     lookPoints:
     - pointName: point_01
-      positionPoint: {x: 0, y: 1, z: -10}
-      eulerAngle: {x: -0, y: 0, z: 0}
-      freeRotation: 0
+      positionPoint: {x: -1.4152582, y: 2.8947582, z: -3.7668543}
+      eulerAngle: {x: 24.449337, y: 315.46573, z: 0.0012736344}
+      freeRotation: 1
     cameraMode: 0
   - Name: ThrowStanding
     forward: -1
@@ -306,7 +306,7 @@ MonoBehaviour:
     fixedAngle: {x: 0, y: 0}
     lookPoints:
     - pointName: point_01
-      positionPoint: {x: 243.86966, y: 8.007825, z: 164.1816}
-      eulerAngle: {x: 24.449335, y: 135.46579, z: 0.001277386}
+      positionPoint: {x: -1.4152582, y: 2.8947582, z: -3.7668543}
+      eulerAngle: {x: 24.449337, y: 315.46573, z: 0.0012736344}
       freeRotation: 1
     cameraMode: 2
